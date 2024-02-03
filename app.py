@@ -5,4 +5,4 @@ flash_app = Flask(__name__)
 
 @flash_app.route("/")
 def hello_world():
-    return "Hello Sammy!"
+    return "Hello World!"
